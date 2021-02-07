@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="angular_0">
+        <item>Facebook</item>
+        <item>Microsoft</item>
+        <item>Google</item>
+        <item>Zend Frameworks Technologies</item>
+    </array>
+    <array name="angular_1">
+        <item>Single Page Applications</item>
+        <item>Server Protocol Applications</item>
+        <item>Simple Procedural Attacks</item>
+        <item>Single Pointer Allocations</item>
+    </array>
+    <array name="angular_2">
+        <item>Scope</item>
+        <item>Controller</item>
+        <item>Binding</item>
+        <item>Version Control</item>
+    </array>
+    <array name="angular_3">
+        <item>ng-controller or data-ng-controller</item>
+        <item>ng-bind or data-ng-bind</item>
+        <item>ng-model or data-ng-model</item>
+        <item>ng-app or data-ng-app</item>
+    </array>
+    <array name="angular_questions">
+        <item>AngularJS is currently maintained by?</item>
+        <item>Angular helps to address challenges encountered in developing SPAs, which are also known as?</item>
+        <item>What term is defined when a particular binding is valid in a computer program?</item>
+        <item>This attribute declares the root element of an AngularJS application, under which directives can be used to declare bindings and define behaviour.</item>
+    </array>
+    <array name="answers">
+        <item>Rasmus Lerdorf</item>
+        <item>1995</item>
+        <item>False</item>
+        <item>PHP Licence</item>
+        <item>Hypertext Markup Language</item>
+        <item>False</item>
+        <item>Angle Brackets</item>
+        <item>It specifies the code for formatting both the layout and style, the processing, definition and presentation of text.</item>
+        <item>It is used for describing the presentation of a document written in a markup language.</item>
+        <item>True</item>
+        <item>Patterns used to select the element(s) you want to style.</item>
+        <item>Internal style sheet</item>
+        <item>False</item>
+        <item>All of the above</item>
+        <item>.js</item>
+        <item>var foo</item>
+        <item>1972</item>
+        <item>Imperative Programming Language</item>
+        <item>A semicolon</item>
+        <item>True</item>
+        <item>Microsoft</item>
+        <item>C Sharp</item>
+        <item>True</item>
+        <item>Object-Oriented Programming Language</item>
+        <item>PHP and MYSQL</item>
+        <item>Content Management System (CMS)</item>
+        <item>False</item>
+        <item>Plugin architecture</item>
+        <item>Relational Database Management System (RDBMS)</item>
+        <item>C and C++</item>
+        <item>All of the above</item>
+        <item>False</item>
+        <item>It is a component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites and other collections of information.</item>
+        <item>Scott Chacon, Chris Wanstrath, PJ Hyett and Tom Preston-Werner</item>
+        <item>31 million</item>
+        <item>Microsoft</item>
+        <item>3.3.1</item>
+        <item>A Javascript library</item>
+        <item>Use jQuery() function</item>
+        <item>Static utility functions and JQuery object methods.</item>
+        <item>Google</item>
+        <item>Single Page Applications</item>
+        <item>Scope</item>
+        <item>ng-app or data-ng-app</item>
+        <item>Twitter</item>
+        <item>2011</item>
+        <item>Web Framework</item>
+        <item>JQuery plugins</item>
+        <item>Raster Graphics Editor</item>
+        <item>.psd</item>
+        <item>Adobe</item>
+        <item>Photoshop version 8</item>
+        <item>Designing and prototyping user-experience for web and mobile apps.</item>
+        <item>Experience Design</item>
+        <item>True</item>
+        <item>PHP Framework</item>
+        <item>Laravel 3</item>
+        <item>Laravel 4</item>
+        <item>False</item>
+    </array>
+    <array name="bootstrap_0">
+        <item>Facebook</item>
+        <item>Uber</item>
+        <item>Twitter</item>
+        <item>Oracle</item>
+    </array>
+    <array name="bootstrap_1">
+        <item>2009</item>
+        <item>1999</item>
+        <item>2011</item>
+        <item>2010</item>
+    </array>
+    <array name="bootstrap_2">
+        <item>PHP Framework</item>
+        <item>Web Framework</item>
+        <item>Javascript Framework</item>
+        <item>CSS Framework</item>
+    </array>
+    <array name="bootstrap_3">
+        <item>JQuery plugins</item>
+        <item>PHP plugins</item>
+        <item>Wordpress plugins</item>
+        <item>Joomla plugins</item>
+    </array>
+    <array name="bootstrap_questions">
+        <item>The developers of Bootstrap worked at which company when they created the Bootstrap framework?</item>
+        <item>Bootstrap was first released in which year?</item>
+        <item>What type of framework is Bootstrap?</item>
+        <item>Bootstrap comes with several Javascript components in what form?</item>
+    </array>
+    <array name="c_0">
+        <item>1972</item>
+        <item>1995</item>
+        <item>1990</item>
+        <item>1983</item>
+    </array>
+    <array name="c_1">
+        <item>Object-oriented Programming Language</item>
+        <item>Imperative Programming Language</item>
+        <item>Functional Programming Language</item>
+        <item>Logic Programming Language</item>
+    </array>
+    <array name="c_2">
+        <item>A semicolon</item>
+        <item>A closing curly bracket</item>
+        <item>A comma</item>
+        <item>A period</item>
+    </array>
+    <array name="c_3">
+        <item>True</item>
+        <item>False</item>
+    </array>
+    <array name="c_questions">
+        <item>Which year was C first released?</item>
+        <item>What type of programming language is C?</item>
+        <item>What is used to end a statement in C?</item>
+        <item>Function and data pointers permit ad hoc run-time polymorphism in C.</item>
+    </array>
+    <array name="csharp_0">
+        <item>Microsoft</item>
+        <item>Bill Gates</item>
+        <item>Steve Jobs</item>
+        <item>Apple</item>
+    </array>
+    <array name="csharp_1">
+        <item>C Sharp</item>
+        <item>C Hash</item>
+        <item>C Hash Tag</item>
+        <item>Number C</item>
+    </array>
+    <array name="csharp_2">
+        <item>True</item>
+        <item>False</item>
+    </array>
+    <array name="csharp_3">
+        <item>Functional Programming Language</item>
+        <item>Object-Oriented Programming Language</item>
+        <item>Logic Programming Language</item>
+        <item>Procedural Programming Language</item>
+    </array>
+    <array name="csharp_questions">
+        <item>Who created C#?</item>
+        <item>How is C# pronounced?</item>
+        <item>C# is suitable for writing applications for both hosted and embedded systems.</item>
+        <item>What type of programming language is C#?</item>
+    </array>
+    <array name="css_0">
+        <item>It is used for describing the presentation of a document written in a markup language.</item>
+        <item>It describes the structure of a webpage semantically.</item>
+        <item>It is used to enable separation of presentation and content, including layout, colours and fonts.</item>
+    </array>
+    <array name="css_1">
+        <item>False</item>
+        <item>True</item>
+    </array>
+    <array name="css_2">
+        <item>Patterns used to select the element(s) you want to style.</item>
+        <item>Angle Brackets in an HTML document.</item>
+        <item>Rules that style an HTML document.</item>
+    </array>
+    <array name="css_3">
+        <item>Internal style sheet</item>
+        <item>External style sheet</item>
+        <item>Inline style sheet</item>
+    </array>
+    <array name="css_questions">
+        <item>What is CSS used for?</item>
+        <item>CSS selectors are case sensitive</item>
+        <item>What are CSS selectors</item>
+        <item>What type of style sheet that is defined within the style element inside the head section of an html document?</item>
+    </array>
+    <array name="github_0">
+        <item>It is an algorithm that creates document version numbers.</item>
+        <item>It is a component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites and other collections of information.</item>
+        <item>It is the process of uploading files to Github.</item>
+        <item>It is the process of archiving.</item>
+    </array>
+    <array name="github_1">
+        <item>Chris Wanstrath</item>
+        <item>PJ Hyett</item>
+        <item>Microsoft</item>
+        <item>Scott Chacon, Chris Wanstrath, PJ Hyett and Tom Preston-Werner</item>
+    </array>
+    <array name="github_2">
+        <item>31 million</item>
+        <item>150 million</item>
+        <item>10 million</item>
+        <item>67 million</item>
+    </array>
+    <array name="github_3">
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Microsoft</item>
+        <item>Oracle</item>
+    </array>
+    <array name="github_questions">
+        <item>What is version control?</item>
+        <item>Who developed Github?</item>
+        <item>How many users did Github have on October 2018?</item>
+        <item>Who acquired Github in 2018?</item>
+    </array>
+    <array name="html_0">
+        <item>Hypertext Markup Language</item>
+        <item>High Standard Transmission Markup Language</item>
+        <item>Hypertext Transient Media Language</item>
+        <item>High Transparency Media Language</item>
+    </array>
+    <array name="html_1">
+        <item>True</item>
+        <item>False</item>
+    </array>
+    <array name="html_2">
+        <item>Angle Brackets</item>
+        <item>Curly Brackets</item>
+        <item>Round Brackets</item>
+        <item>Square Brackets</item>
+    </array>
+    <array name="html_3">
+        <item>It stores user input data.</item>
+        <item>It describes the structure of a webpage semantically.</item>
+        <item>It specifies the code for formatting both the layout and style, the processing, definition and presentation of text.</item>
+        <item>It defines the logic of a web page.</item>
+    </array>
+    <array name="html_questions">
+        <item>What does HTML stand for?</item>
+        <item>HTML is the only supported format for browsers.</item>
+        <item>How are HTML elements written?</item>
+        <item>What is a function of a markup language?</item>
+    </array>
+    <array name="javascript_0">
+        <item>False</item>
+        <item>True</item>
+    </array>
+    <array name="javascript_1">
+        <item>Weakly-typed</item>
+        <item>Prototype-based</item>
+        <item>Multi-paradigm</item>
+        <item>All of the above</item>
+    </array>
+    <array name="javascript_2">
+        <item>.js</item>
+        <item>.jscript</item>
+        <item>.script</item>
+        <item>.java</item>
+    </array>
+    <array name="javascript_3">
+        <item>var foo</item>
+        <item>variable foo</item>
+        <item>foo</item>
+        <item>$foo</item>
+    </array>
+    <array name="javascript_questions">
+        <item>Javascript is another name for Java, but they are the same thing.</item>
+        <item>What are the characteristics of Javascript?</item>
+        <item>What is the filename extension of a javascript file?</item>
+        <item>How do you declare a Javascript variable?</item>
+    </array>
+    <array name="jquery_0">
+        <item>3.1.3</item>
+        <item>3.3.1</item>
+        <item>3.4.1</item>
+        <item>3.3.0</item>
+    </array>
+    <array name="jquery_1">
+        <item>A Javascript library</item>
+        <item>A Java library</item>
+        <item>A PHP library</item>
+        <item>A Python library</item>
+    </array>
+    <array name="jquery_2">
+        <item>Use $</item>
+        <item>Use jQuery() function</item>
+        <item>Simplify DOM Traversal</item>
+        <item>Use method chaining</item>
+    </array>
+    <array name="jquery_3">
+        <item>Static utility functions and JQuery object methods.</item>
+        <item>Public, Private, and Protected functions</item>
+        <item>Abstract functions</item>
+        <item>Factory functions</item>
+    </array>
+    <array name="jquery_questions">
+        <item>What is the latest stable release since 20 January, 2018?</item>
+        <item>What kind of library is JQuery?</item>
+        <item>What can you do to avoid losing functionality when using no conflict mode in JQuery?</item>
+        <item>What kinds of functions are provided with JQuery?</item>
+    </array>
+    <array name="laravel_0">
+        <item>PHP Framework</item>
+        <item>Web Framework</item>
+        <item>.NET Framework</item>
+        <item>Javascript Framework</item>
+    </array>
+    <array name="laravel_1">
+        <item>Laravel 5</item>
+        <item>Laravel 2</item>
+        <item>Laravel 3</item>
+        <item>Laravel 4</item>
+    </array>
+    <array name="laravel_2">
+        <item>Laravel 1</item>
+        <item>Laravel 2</item>
+        <item>Laravel 4</item>
+        <item>Laravel 3</item>
+    </array>
+    <array name="laravel_3">
+        <item>False</item>
+        <item>True</item>
+    </array>
+    <array name="laravel_questions">
+        <item>What type of framework is Laravel?</item>
+        <item>In which version was the Artisan Command Line Interface (CLI) included in Laravel?</item>
+        <item>Which version was codenamed Illuminate</item>
+        <item>Laravel 1 had support for controllers.</item>
+    </array>
+    <array name="mysql_0">
+        <item>Relational Database Management System (RDBMS)</item>
+        <item>Hierarchical Database Management System (HDBMS)</item>
+        <item>Network Database Management System (NDBMS)</item>
+        <item>Graph Database Management System (GDBMS</item>
+    </array>
+    <array name="mysql_1">
+        <item>C and C++</item>
+        <item>PHP and C#</item>
+        <item>PHP and C</item>
+        <item>PYTHON and F#</item>
+    </array>
+    <array name="mysql_2">
+        <item>PhpMyAdmin</item>
+        <item>MySQL Workbench</item>
+        <item>LibreOffice Base</item>
+        <item>All of the above</item>
+    </array>
+    <array name="mysql_3">
+        <item>True</item>
+        <item>False</item>
+    </array>
+    <array name="mysql_questions">
+        <item>What type of software is MYSQL?</item>
+        <item>Which programming languages is MYSQL written in?</item>
+        <item>Which GUI allow working with MYSQL to visually manage database structures and data?</item>
+        <item>MYSQL works only with PHP.</item>
+    </array>
+    <array name="photoshop_0">
+        <item>C# Editor</item>
+        <item>PHP Editor</item>
+        <item>HTML Editor</item>
+        <item>Raster Graphics Editor</item>
+    </array>
+    <array name="photoshop_1">
+        <item>.ps</item>
+        <item>.psd</item>
+        <item>.pts</item>
+        <item>.aps</item>
+    </array>
+    <array name="photoshop_2">
+        <item>Adobe</item>
+        <item>The Plugin Site</item>
+        <item>Microsoft</item>
+        <item>Alien Skin Software</item>
+    </array>
+    <array name="photoshop_3">
+        <item>Photoshop version 8</item>
+        <item>Photoshop version 5</item>
+        <item>Photoshop version 9</item>
+        <item>Photoshop version 7</item>
+    </array>
+    <array name="photoshop_questions">
+        <item>What type of editor is Photoshop?</item>
+        <item>What is the filename extension of a photoshop document?</item>
+        <item>The Adobe Camera Raw plugin is supplied by who?</item>
+        <item>Adobe Photoshop CS is sometimes called by which version number?</item>
+    </array>
+    <array name="php_0">
+        <item>Rasmus Lerdorf</item>
+        <item>Zend Technologies</item>
+        <item>Mark Zuckerberg</item>
+        <item>Microsoft</item>
+        <item>Bill Gates</item>
+    </array>
+    <array name="php_1">
+        <item>1994</item>
+        <item>1995</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+    </array>
+    <array name="php_2">
+        <item>True</item>
+        <item>False</item>
+    </array>
+    <array name="php_3">
+        <item>MIT Licence</item>
+        <item>GNU Licence</item>
+        <item>PHP Licence</item>
+        <item>Apache Licence</item>
+    </array>
+    <array name="php_questions">
+        <item>Who created PHP?</item>
+        <item>Which year was PHP first released?</item>
+        <item>PHP code may not be executed with a command line interface.</item>
+        <item>The standard PHP interpreter powered by the Zend Engine is released under which licence?</item>
+    </array>
+    <array name="questions">
+        <item>Who created PHP?</item>
+        <item>Which year was PHP first released?</item>
+        <item>PHP code may not be executed with a command line interface.</item>
+        <item>The standard PHP interpreter powered by the Zend Engine is released under which licence?</item>
+        <item>What does HTML stand for?</item>
+        <item>HTML is the only supported format for browsers.</item>
+        <item>How are HTML elements written?</item>
+        <item>What is a function of a markup language?</item>
+        <item>What is CSS used for?</item>
+        <item>CSS selectors are case sensitive</item>
+        <item>What are CSS selectors</item>
+        <item>What type of style sheet that is defined within the style element inside the head section of an html document?</item>
+        <item>Javascript is another name for Java, but they are the same thing.</item>
+        <item>What are the characteristics of Javascript?</item>
+        <item>What is the filename extension of a javascript file?</item>
+        <item>How do you declare a Javascript variable?</item>
+        <item>Which year was C first released?</item>
+        <item>What type of programming language is C?</item>
+        <item>What is used to end a statement in C?</item>
+        <item>Function and data pointers permit ad hoc run-time polymorphism in C.</item>
+        <item>Who created C#?</item>
+        <item>How is C# pronounced?</item>
+        <item>C# is suitable for writing applications for both hosted and embedded systems.</item>
+        <item>What type of programming language is C#?</item>
+        <item>On which languages is Wordpress based on?</item>
+        <item>What type of software is Wordpress?</item>
+        <item>Prior to version 3, Wordpress supported multiple blogs per installation.</item>
+        <item>Which architecture allows users to extend the features and functionality of a website or blog?</item>
+        <item>What type of software is MYSQL?</item>
+        <item>Which programming languages is MYSQL written in?</item>
+        <item>Which GUI allow working with MYSQL to visually manage database structures and data?</item>
+        <item>MYSQL works only with PHP.</item>
+        <item>What is version control?</item>
+        <item>Who developed Github?</item>
+        <item>How many users did Github have on October 2018?</item>
+        <item>Who acquired Github in 2018?</item>
+        <item>What is the latest stable release since 20 January, 2018?</item>
+        <item>What kind of library is JQuery?</item>
+        <item>What can you do to avoid losing functionality when using no conflict mode in JQuery?</item>
+        <item>What kinds of functions are provided with JQuery?</item>
+        <item>AngularJS is currently maintained by?</item>
+        <item>Angular helps to address challenges encountered in developing SPAs, which are also known as?</item>
+        <item>What term is defined when a particular binding is valid in a computer program?</item>
+        <item>This attribute declares the root element of an AngularJS application, under which directives can be used to declare bindings and define behaviour.</item>
+        <item>The developers of Bootstrap worked at which company when they created the Bootstrap framework?</item>
+        <item>Bootstrap was first released in which year?</item>
+        <item>What type of framework is Bootstrap?</item>
+        <item>Bootstrap comes with several Javascript components in what form?</item>
+        <item>What type of editor is Photoshop?</item>
+        <item>What is the filename extension of a photoshop document?</item>
+        <item>The Adobe Camera Raw plugin is supplied by who?</item>
+        <item>Adobe Photoshop CS is sometimes called by which version number?</item>
+        <item>What is Adobe XD designed for?</item>
+        <item>What does XD stand for in Adobe XD?</item>
+        <item>Adobe XD allows users to create animated prototypes through linking artboards.</item>
+        <item>What type of framework is Laravel?</item>
+        <item>In which version was the Artisan Command Line Interface (CLI) included in Laravel?</item>
+        <item>Which version was codenamed Illuminate</item>
+        <item>Laravel 1 had support for controllers.</item>
+    </array>
+    <array name="wordpress_0">
+        <item>PHP and MYSQL</item>
+        <item>C# and MSSQL</item>
+        <item>PYTHON and POSTGRE</item>
+        <item>NODEJS and NOSQL</item>
+    </array>
+    <array name="wordpress_1">
+        <item>Content Management System (CMS)</item>
+        <item>Integrated Development Environment (IDE)</item>
+        <item>Anti-Virus</item>
+        <item>Web Server</item>
+    </array>
+    <array name="wordpress_2">
+        <item>True</item>
+        <item>False</item>
+    </array>
+    <array name="wordpress_3">
+        <item>Plugin architecture</item>
+        <item>MVC architecture</item>
+        <item>MVVM architecture</item>
+        <item>Framework architecture</item>
+    </array>
+    <array name="wordpress_questions">
+        <item>On which languages is Wordpress based on?</item>
+        <item>What type of software is Wordpress?</item>
+        <item>Prior to version 3, Wordpress supported multiple blogs per installation.</item>
+        <item>Which architecture allows users to extend the features and functionality of a website or blog?</item>
+    </array>
+    <array name="xd_0">
+        <item>Designing and prototyping user-experience for web and mobile apps.</item>
+        <item>Creating mobile games.</item>
+        <item>Creating cross-browser compatible and mobile friendly websites.</item>
+        <item>Editing images and videos.</item>
+    </array>
+    <array name="xd_1">
+        <item>Experience Design</item>
+        <item>XML Design</item>
+        <item>Extended Design</item>
+        <item>Example Displayer</item>
+    </array>
+    <array name="xd_2">
+        <item>True</item>
+        <item>False</item>
+    </array>
+    <array name="xd_questions">
+        <item>What is Adobe XD designed for?</item>
+        <item>What does XD stand for in Adobe XD?</item>
+        <item>Adobe XD allows users to create animated prototypes through linking artboards.</item>
+    </array>
+</resources>

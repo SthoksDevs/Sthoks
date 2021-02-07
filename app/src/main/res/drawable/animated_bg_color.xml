@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="2000" android:drawable="@drawable/blueish_bg"/>
+    <item android:duration="2000" android:drawable="@drawable/light_black_bg"/>
+    <item android:duration="2000" android:drawable="@drawable/green_blue_bg"/>
+</animation-list>

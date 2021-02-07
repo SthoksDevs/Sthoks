@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:id="@+id/action_open_source_licences" android:title="Open Source Licences" android:key="open_source_licences" android:summary="Shows open source licences for the libraries used in the app"/>
+</PreferenceScreen>

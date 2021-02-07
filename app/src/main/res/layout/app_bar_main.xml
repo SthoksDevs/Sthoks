@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/main_content" android:background="@drawable/blueish_bg" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" android:id="@+id/appbar" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.google.android.material.appbar.CollapsingToolbarLayout android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="176dp" app:contentScrim="@color/transpBlack" app:expandedTitleTextAppearance="@android:color/transparent" app:layout_scrollFlags="3">
+            <ImageView android:background="@drawable/architecture_city_view_from_above_buildings_river_118446_1920x1080" android:layout_width="match_parent" android:layout_height="176dp"/>
+            <View android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:background="@drawable/sthoks_circle" android:layout_width="130dp" android:layout_height="130dp"/>
+            <View android:background="@drawable/scrim" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="176dp"/>
+            <TextView android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Thokozane Charles Nhlangulela"/>
+            <androidx.appcompat.widget.Toolbar android:layout_gravity="bottom" android:id="@+id/toolbar" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:popupTheme="@style/AppTheme.PopupOverlay"/>
+            <com.google.android.material.tabs.TabLayout android:layout_gravity="top" android:id="@+id/tabs" android:layout_width="match_parent" android:layout_height="wrap_content" app:tabGravity="1" app:tabMode="1"/>
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.viewpager.widget.ViewPager android:id="@+id/container" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
