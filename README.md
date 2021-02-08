@@ -1,4 +1,4 @@
 # Sthoks
-Source code for Sthoks Android app.
-This is in Java.
-App version 1.0.
+Source code for Sthoks Android app.<br>
+This is in Java.<br>
+App version 1.0.<br>
